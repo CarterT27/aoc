@@ -1,2 +1,1 @@
-'advent-of-code-data[nb]'
-notebook
+pyperclip
